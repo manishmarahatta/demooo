@@ -10,6 +10,7 @@ sections:
   label: Posts
   create: all
   templates:
+  - posts
   - post
 - type: heading
   label: Content
